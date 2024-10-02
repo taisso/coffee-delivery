@@ -4,6 +4,7 @@ import { useTheme } from "styled-components";
 import { useContext } from "react";
 import { CheckoutContext } from "../../contexts/CheckoutContext";
 import { useParams } from "react-router-dom";
+import illustration from '../../assets/illustration.svg'
 
 const paymentMethod = {
   money: "Dinheiro",
@@ -73,7 +74,7 @@ export function Success() {
         </S.InfoContainer>
       </S.OrderContainer>
 
-      <img src="src/assets/illustration.svg" alt="" />
+      <img src={illustration} alt="" />
     </S.SuccessContainer>
   );
 }

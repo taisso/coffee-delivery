@@ -23,6 +23,7 @@ export const OrderContainer = styled.div`
   display: flex;
   flex-direction: column;
   gap: 2.5rem;
+  flex: 1;
 `;
 
 export const InfoContainer = styled.div`
