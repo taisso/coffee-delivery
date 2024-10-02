@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Expresso Tradicional",
+    "price": 9.9,
+    "description": "Origens do café são misturadas para um expresso forte.",
+    "tags": ["tradicional", "café"]
+  },
+  {
+    "id": "2",
+    "name": "Expresso Americano",
+    "price": 9.9,
+    "description": "Expresso diluído com água quente.",
+    "tags": ["tradicional", "café"]
+  },
+  {
+    "id": "3",
+    "name": "Expresso Cremoso",
+    "price": 9.9,
+    "description": "Café expresso com uma camada cremosa.",
+    "tags": ["tradicional", "cremoso", "café"]
+  },
+  {
+    "id": "4",
+    "name": "Expresso Gelado",
+    "price": 9.9,
+    "description": "Café expresso servido gelado.",
+    "tags": ["gelado", "café"]
+  },
+  {
+    "id": "5",
+    "name": "Café com Leite",
+    "price": 9.9,
+    "description": "Uma mistura de café expresso com leite quente.",
+    "tags": ["tradicional", "café", "leite"]
+  },
+  {
+    "id": "6",
+    "name": "Latte",
+    "price": 9.9,
+    "description": "Café expresso com bastante leite vaporizado.",
+    "tags": ["cremoso", "café", "leite"]
+  },
+  {
+    "id": "7",
+    "name": "Capuccino",
+    "price": 9.9,
+    "description": "Café expresso com leite vaporizado e espuma de leite.",
+    "tags": ["cremoso", "café", "leite"]
+  },
+  {
+    "id": "8",
+    "name": "Macchiato",
+    "price": 9.9,
+    "description": "Café expresso com uma pequena quantidade de leite.",
+    "tags": ["tradicional", "café", "leite"]
+  },
+  {
+    "id": "9",
+    "name": "Mocaccino",
+    "price": 9.9,
+    "description": "Mistura de café expresso, chocolate e leite.",
+    "tags": ["cremoso", "café", "chocolate"]
+  },
+  {
+    "id": "10",
+    "name": "Chocolate Quente",
+    "price": 9.9,
+    "description": "Bebida quente de chocolate com leite.",
+    "tags": ["cremoso", "chocolate"]
+  },
+  {
+    "id": "11",
+    "name": "Cubano",
+    "price": 9.9,
+    "description": "Café expresso com açúcar e especiarias.",
+    "tags": ["tradicional", "café"]
+  },
+  {
+    "id": "12",
+    "name": "Havaliano",
+    "price": 9.9,
+    "description": "Bebida de café com um toque especial.",
+    "tags": ["café"]
+  }
+]
