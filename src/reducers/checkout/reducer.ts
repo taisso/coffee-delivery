@@ -76,6 +76,7 @@ export function checkoutReducer(state: CheckoutState, action: any) {
         const { payload } = action;
 
         draft.order = payload.order;
+        draft.cart = [];
       });
     }
   }
